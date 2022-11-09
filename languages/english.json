@@ -1,38 +1,38 @@
 {
-					"GENERAL": {
-						"RECENT": "recenete",
-						"APPLICATIONS": "aplicatioen",
-						"DESKTOP": "deskeptop",
-						"DOCUMENTS": "dockingument",
-						"DOWNLOADS": "Downloads",
-						"PICTURES": "Pictures",
-						"MUSIC": "Music",
-						"MOVIES": "Movies",
-						"ICLOUD": "iCloud",
-						"ICLOUD_DRIVE": "iCloud Drive",
-						"VOICE_MEMOS": "Voice Memos",
-						"WIFI": "Wi-fi",
-						"BLUETOOTH": "Bluetooth",
-						"AIRDROP": "Airdrop",
-						"KEYBOARD_BRIGHTNESS": "Keyboard Brightness",
-						"BRIGHTNESS": "Brightness",
-						"SCREEN_MIRRORING": "Screen Mirroring",
-						"DISPLAY": "Display",
-						"SOUND": "Sound",
-						"FILE": "File",
-						"VIEW": "View",
-						"GO": "Go",
-						"WINDOW": "Window",
-						"HELP": "Help"
-					},
-					"SWITCHES": {
-						"ENABLED": "On",
-						"DISABLED": "Off"
-					},
-					"APPS": {
-						"FINDER": "Finder"
-					},
-					"TIPS": {
-						"FULL_QUALITY": "The full quality background is only active once logging back in."
-					}
-				}
+	"GENERAL": {
+		"RECENT": "Recent",
+		"APPLICATIONS": "Applications",
+		"DESKTOP": "Desktop",
+		"DOCUMENTS": "Documents",
+		"DOWNLOADS": "Downloads",
+		"PICTURES": "Pictures",
+		"MUSIC": "Music",
+		"MOVIES": "Movies",
+		"ICLOUD": "iCloud",
+		"ICLOUD_DRIVE": "iCloud Drive",
+		"VOICE_MEMOS": "Voice Memos",
+		"WIFI": "Wi-fi",
+		"BLUETOOTH": "Bluetooth",
+		"AIRDROP": "Airdrop",
+		"KEYBOARD_BRIGHTNESS": "Keyboard Brightness",
+		"BRIGHTNESS": "Brightness",
+		"SCREEN_MIRRORING": "Screen Mirroring",
+		"DISPLAY": "Display",
+		"SOUND": "Sound",
+		"FILE": "File",
+		"VIEW": "View",
+		"GO": "Go",
+		"WINDOW": "Window",
+		"HELP": "Help"
+	},
+	"SWITCHES": {
+		"ENABLED": "On",
+		"DISABLED": "Off"
+	},
+	"APPS": {
+		"FINDER": "Finder"
+	},
+	"TIPS": {
+		"FULL_QUALITY": "The full quality background is only active once logging back in."
+	}
+}
