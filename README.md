@@ -8,6 +8,7 @@ Just open a pull request with English.json as the template (will be constantly u
 
 ## Languages Translated
 
-| Language  | Progress  |
-|---|---|
-| English  | 100%  |
+| Language  | Progress  | Contributor |
+|---|---|---|
+| English  | 100%  | @zNotChill |
+| German | 100% | @nikidersniki |
