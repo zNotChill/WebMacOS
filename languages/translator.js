@@ -13,7 +13,7 @@
 								a.innerText = lang[r][v]
 							})
 						} catch (error) {
-							
+						
 						}
 					}
 				}
